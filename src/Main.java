@@ -60,12 +60,15 @@ char letra = 'a';
         int unidades = 4;
         System.out.println(unidades>5);
 
-        //Oferta -> si compras un importe de  mas de 100€ se da el 5% de descuento
+        //Oferta -> si compras un importee de  mas de 100€ se da el 5% de descuento
             //se compraron 3 unidades de 15€
             //¿le corresponde el descuento?
             int unidades2 = 3;
             float precio = 15F;
             System.out.println(unidades*precio>100);
+
+
+
 
 
     }
